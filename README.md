@@ -22,6 +22,8 @@ The aim was to develop a tool to help in policing. It is a Vehicle Tracking Web 
   2. It fetched Vehicle Number, and inserted Vehicle Number along with Date, Time, Latitude and Longitude of the place vehicle recorded at the camera, into Firebase.
 
   3. User can put desired Vehicle Number in the hosted site and it would return the last located position, along with time and date, of the vehicle into the Map.
+  
+## Images 
 
 ![DL algo in Action](https://github.com/gdeepanshu46/Tool-to-help-policing/blob/master/result.png?raw=true "DL Algo in Action")
 
