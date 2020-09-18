@@ -35,10 +35,11 @@ The aim was to develop a tool to help in policing. It is a Vehicle Tracking Web 
 
 ![Results Fetched](https://github.com/gdeepanshu46/Tool-to-help-policing/blob/master/web%20results.png?raw=true "Results Fetched")
 
-[Link](https://drive.google.com/file/d/1HKoMZYo1Nr1DIwAz_hGTtDlGtpqxFk75/view "Video Explanation") to Simple Video Explanation of the Model!
+
 
 ## References
 
+  * [Link](https://drive.google.com/file/d/1HKoMZYo1Nr1DIwAz_hGTtDlGtpqxFk75/view "Video Explanation") to Simple Video Explanation of the Model!
   * Site - https://gdeepanshu46.github.io/Tool-to-help-policing/
   * Username - interns@gmail.com  
   * Password - gpcssi@2020=
